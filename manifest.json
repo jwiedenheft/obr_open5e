@@ -1,0 +1,12 @@
+{
+  "name": "Open5e Connector",
+  "version": "1.0.0",
+  "manifest_version": 1,
+  "action": {
+    "title": "Open5e",
+    "icon": "/3d-arc.svg",
+    "popover": "/",
+    "height": 600,
+    "width": 600
+  }
+}
